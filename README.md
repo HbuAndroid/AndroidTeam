@@ -1,5 +1,4 @@
-# Android 竞赛组
-## 2018参赛队员
+### 2018参赛队员
 - [陈我](https://github.com/Xingchenzhun)
 - [李贺功](https://github.com/yesbutter)
 - [毕智治](https://github.com/dadadazhi) 
