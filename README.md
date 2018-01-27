@@ -8,5 +8,5 @@
 - [康宇翰](https://github.com/0-0MrLonely)
 - [白玲](https://github.com/TianyuWhite)
 - [张雅昕](https://github.com/S7ZYXU)
-- [顾天宇](？)
+- [顾天宇](https://github.com/xiaogugu12)
 
